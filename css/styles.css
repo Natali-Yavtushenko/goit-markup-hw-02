@@ -2,6 +2,12 @@ body {
   font-family: "roboto", sans-serif;
   background-color: #fff;
 }
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -40,4 +46,22 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.hero {
+}
+
+.hero-title {
+}
+
+.hero-btn {
+}
+.Mission {
+}
+.massion-list {
+}
+.mission-item {
+}
+.mission-subtitle {
+}
+.mission-item-text {
 }
