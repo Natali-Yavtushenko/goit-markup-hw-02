@@ -66,10 +66,18 @@ a {
 .header-contacts-item:focus {
   color: #404bbf;
 }
-.header-mailto-link {
+.header-contacts-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
-.header-tel-link {
+.header-contacts-link:hover,
+.header-contacts-link:focus {
+  color: #404bbf;
 }
+
 .hero {
   background: #2e2f42;
 }
